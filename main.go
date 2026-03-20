@@ -3,5 +3,5 @@ package main
 import "fat"
 
 func main(){
-	fmt.printIn("Hola Go")
+	fmt.printIn("feature/test")
 }
